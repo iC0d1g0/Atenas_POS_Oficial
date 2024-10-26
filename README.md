@@ -57,4 +57,4 @@ Los registros se guardan en la carpeta `logs` en el mismo directorio de la aplic
 [EULA License](link-a-la-licencia)
 
 ## Contacto y Soporte
-Para soporte, contáctanos en [info@solidtype.c](mailto:info@solidtype.net).
+Para soporte, contáctanos en [info@solidtype.net](mailto:info@solidtype.net).
