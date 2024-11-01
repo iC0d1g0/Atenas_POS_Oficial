@@ -8,8 +8,12 @@
 Aplicación que permite a los usuarios hacer X, Y, y Z de manera sencilla y rápida. Ideal para [audiencia] que busca [objetivo].
 
 ## Capturas de Pantalla
-![Captura de Pantalla 1](link-captura1.png)
-![Captura de Pantalla 2](link-captura2.png)
+![Captura de Pantalla 1](https://github.com/user-attachments/assets/7ec0aab2-b34d-4dea-b49e-66479be17a7f)
+![Captura de Pantalla 2](https://github.com/user-attachments/assets/9a49a018-8cd9-43c9-b087-ed1a9e56dbeb)
+
+
+
+
 
 ## Características Principales
 - Función A: permite realizar X de manera eficiente.
