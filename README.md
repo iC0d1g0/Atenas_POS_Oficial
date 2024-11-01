@@ -12,9 +12,9 @@ Aplicación que permite a los usuarios hacer X, Y, y Z de manera sencilla y ráp
 ![Captura de Pantalla 2](link-captura2.png)
 
 ## Características Principales
-- Función A que permite hacer X
-- Función B que optimiza Y
-- Función C que soporta Z
+- Función A: permite realizar X de manera eficiente.
+- Función B: optimiza Y para mejorar el flujo de trabajo.
+- Función C: soporta Z para brindar una experiencia completa.
 
 ## Instalación y Requisitos
 ### Requisitos Previos
