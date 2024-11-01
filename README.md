@@ -36,7 +36,7 @@ Aplicación que permite a los usuarios hacer X, Y, y Z de manera sencilla y ráp
 
 
 Instalacion: 
-1. Descargar la aplicacion del sitio oficial [Releases](link-a-releases).. 
+1. Descargar la aplicacion del sitio oficial [Releases](https://solidtype.net/Atenas/Atenas_v0.1.1-alpha.apk).. 
 2. Habilitar la instalacion desde origenes desconocidos. 
 3. hacer clic (Tap) sobre la aplicacion descargada. 
 4. Aceptar e instalar. 
