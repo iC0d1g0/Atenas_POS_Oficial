@@ -1,8 +1,8 @@
-# Atenas POS Oficial
-Repositorio de binarios y release oficiales. 
+ # Atenas POS Oficial
+ Repositorio de binarios y release oficiales. 
 
 
-![Logo de la aplicación](link-al-logo.png)
+![Logo de la aplicación](https://github.com/user-attachments/assets/39ca679a-91fe-4f96-8af2-ed289ad65b12)
 
 ## Descripción
 Aplicación que permite a los usuarios hacer X, Y, y Z de manera sencilla y rápida. Ideal para [audiencia] que busca [objetivo].
