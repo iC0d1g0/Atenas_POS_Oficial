@@ -82,7 +82,7 @@ Cualquier otra pregunta, favor de dejarla en la caja de comentario del video en 
 <ul class="center-ul pr-4">
 <li class="mb-2"><a href="https://www.facebook.com/profile.php?id=61553090004333"><i class="fa-brands fa-facebook-f" style="color: #ffffff;"></i> Facebook</a></li>
 <li class="mb-2"><a href="https://www.instagram.com/solidtype_rd/"><i class="fa-brands fa-instagram" style="color: #ffffff;"></i> Instagram</a></li>
-<li class="mb-2"><a href="mailto:solidtype364@gmail.com"><i class="fa-solid fa-envelope" style="color: #ffffff;"></i> Email</a></li>
+<li class="mb-2"><a href="mailto:solidtype364@gmail.com"><i class="fa-solid fa-envelope" style="color: #ffffff;"></i> Email (solidtype364@gmail.com)</a></li>
 <li class="mb-2"><a href="https://api.whatsapp.com/send?phone=8292038725"><i class="fa-brands fa-whatsapp" style="color: #ffffff;"></i> Whatsapp</a></li>
 <li class="mb-2"><a href="https://www.tiktok.com/@solidtype_rd"><i class="fa-brands fa-tiktok" style="color: #ffffff;"></i> TikTok</a></li>
 <li class="mb-2"><a href="https://twitter.com/solidtype_rd"><i class="fa-brands fa-twitter" style="color: #ffffff;"></i> Twitter</a></li>
